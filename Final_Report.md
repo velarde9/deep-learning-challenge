@@ -14,7 +14,7 @@ Data Preprocessing
 
 Compiling, Training, and Evaluating the Model
 
-- In the original model (deep_learning_challenge.ipynb), there are _ neurons, 2 layers, and 2 activation functions (relu and sigmoid). These were used on a trial and error basis.
+- In the original model (deep_learning_challenge.ipynb), there are 2 layers, 8 neurons in the first layer and 5 neurons in the second layer, and 2 activation functions (relu and sigmoid). These were used on a trial and error basis.
 - This model was not able to achieve the target model performance, with an accuracy of 73.8% and loss of 54.7%.
 What steps did you take in your attempts to increase model performance?
 - To increase model performance, the first attempt taken was to bin by "INCOME_AMT".
